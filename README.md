@@ -30,7 +30,17 @@ The Resume Management System is a web application that helps users create, manag
    ```
    npm start
    ```
-
+Resume-management/
+├── 1.txt
+├── 2.txt
+├── 3.txt
+├── Arpit_Resume - Arpit Patel.pdf
+├── JD.txt
+├── PROJECT REPORT 2.docx
+├── Prakhar-CV - Prakhar Srivastava.pdf
+├── README.md
+├── Resume Project.pptx
+└── app.py
 ## Future Scope
 - PDF resume download
 - Multiple resume templates
