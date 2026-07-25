@@ -1,0 +1,73 @@
+Job Title: Software Engineer Intern
+
+We are seeking a motivated Software Engineer Intern to join our engineering team. The candidate should have a strong understanding of programming fundamentals and problem-solving skills.
+
+Requirements:
+- Knowledge of Python, Java, or C++
+- Understanding of Data Structures and Algorithms
+- Basic knowledge of SQL and databases
+- Familiarity with object-oriented programming
+- Good communication and teamwork skills
+- Basic understanding of software development lifecycle
+
+Preferred Skills:
+- Experience with machine learning or artificial intelligence
+- Knowledge of web development
+- Familiarity with Git/GitHub
+- Problem-solving and analytical thinking
+
+Responsibilities:
+- Assist in software development and testing
+- Collaborate with engineering teams
+- Analyze and debug software issues
+- Participate in technical discussions and documentation
+
+
+Job Title: Embedded Systems Engineer
+
+We are looking for an Electronics and Communication Engineering (ECE) graduate to join our Embedded Systems team. The candidate should have a strong understanding of embedded systems, microcontrollers, and communication technologies.
+
+Requirements:
+- Knowledge of Embedded Systems and Microcontrollers
+- Understanding of VLSI and Digital Electronics
+- Familiarity with Communication Systems and Signal Processing
+- Programming knowledge in C/C++
+- Basic understanding of PCB Design
+- Experience with Arduino or Raspberry Pi
+- Problem-solving and analytical skills
+
+Preferred Skills:
+- Knowledge of IoT systems
+- Familiarity with Verilog or FPGA
+- Experience in hardware-software integration
+- Team collaboration and communication skills
+
+Responsibilities:
+- Design and test embedded electronic systems
+- Work with microcontrollers and hardware modules
+- Analyze signal processing requirements
+- Support development of communication-based applications
+
+Job Title: Civil Site Engineer
+
+We are seeking a Civil Engineering graduate to join our construction and infrastructure team. The candidate should have strong knowledge of structural design, surveying, and construction planning.
+
+Requirements:
+- Knowledge of AutoCAD, Revit, and QGIS
+- Understanding of Structural Analysis and Building Design
+- Familiarity with Surveying and Construction Management
+- Knowledge of Construction Materials and Site Planning
+- Ability to interpret engineering drawings and blueprints
+- Problem-solving and teamwork skills
+
+Preferred Skills:
+- Experience with STAAD Pro
+- Knowledge of GIS applications
+- Understanding of environmental and transportation engineering
+- Strong project coordination skills
+
+Responsibilities:
+- Assist in construction planning and site supervision
+- Prepare engineering drawings and layouts
+- Conduct surveying and structural assessments
+- Coordinate with project teams and contractors

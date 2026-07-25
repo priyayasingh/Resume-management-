@@ -1,0 +1,26 @@
+Job Title: Machine Learning Engineer Intern
+
+We are looking for a Computer Science student specializing in Artificial Intelligence and Machine Learning to join our Data Science and AI team. The candidate should have strong programming skills and experience working with machine learning frameworks and predictive models.
+
+Requirements:
+- Strong knowledge of Python programming
+- Experience with Machine Learning Algorithms
+- Familiarity with TensorFlow, Keras, and Scikit-learn
+- Understanding of Data Preprocessing and Feature Engineering
+- Knowledge of Data Visualization and Exploratory Data Analysis (EDA)
+- Experience working with NumPy, Pandas, and Matplotlib
+- Basic understanding of Neural Networks and Deep Learning
+- Problem-solving and analytical thinking skills
+
+Preferred Skills:
+- Experience with LSTM or Time Series Forecasting
+- Knowledge of Hyperparameter Tuning and Model Evaluation
+- Familiarity with SQL and Cloud Computing
+- Experience with Natural Language Processing (NLP)
+
+Responsibilities:
+- Build and evaluate machine learning models
+- Analyze datasets and extract meaningful insights
+- Develop predictive models for real-world applications
+- Work on AI-based problem-solving tasks
+- Collaborate with the engineering and analytics team

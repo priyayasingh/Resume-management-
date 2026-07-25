@@ -1,0 +1,27 @@
+Job Title: Robotics Systems Engineer
+
+We are seeking an Electronics and Communication Engineering graduate with strong programming and systems engineering skills to join our Robotics and Embedded Systems team. The candidate should have experience with high-performance computing, robotics frameworks, and low-level system design.
+
+Requirements:
+- Strong programming skills in C, C++, and Python
+- Knowledge of Embedded Systems and Distributed Systems
+- Familiarity with Linux-based development
+- Understanding of Data Structures and Algorithms
+- Experience with Concurrency and System Design
+- Familiarity with GPU computing and CUDA
+- Knowledge of TCP/IP and Network Communication
+- Experience working with ROS2 or Robotics Middleware
+- Strong debugging and problem-solving skills
+
+Preferred Skills:
+- Experience with Rust programming
+- Familiarity with Docker and CI/CD pipelines
+- Knowledge of Azure or Cloud Integration
+- Experience with Database Systems such as PostgreSQL
+
+Responsibilities:
+- Develop and optimize robotics software systems
+- Work on high-performance distributed computing systems
+- Build low-latency communication pipelines
+- Contribute to robotics simulation and hardware integration
+- Collaborate with embedded and systems engineering teams
