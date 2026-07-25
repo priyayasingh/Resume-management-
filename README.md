@@ -1,35 +1,39 @@
 # Resume Management System
 
-## Overview
-The Resume Management System is a web application that helps users create, manage, and organize resumes efficiently. It provides a simple interface for adding, editing, viewing, and storing resume information.
+A Resume Management System is a web application developed to simplify the process of storing, managing, and organizing resumes. The system enables users to upload resumes, maintain candidate information, and efficiently manage resume-related documents through a simple and user-friendly interface.
 
-## Features
-- User registration and login
-- Create and edit resumes
-- Manage personal, educational, and professional details
-- Responsive user interface
-- Secure data storage
+---
 
-## Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Version Control: Git & GitHub
+## 📌 Project Overview
 
-## Installation
+The Resume Management System is designed to reduce manual effort in handling resumes. It provides a centralized platform where resumes and related documents can be stored, viewed, and managed efficiently. This project demonstrates the implementation of a resume management application using Python and web technologies.
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/priyayasingh/Resume-management-.git
-   ```
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Start the application:
-   ```
-   npm start
-   ```
+---
+
+## ✨ Features
+
+- Upload and manage resumes
+- Store candidate information
+- Easy navigation and user-friendly interface
+- Organized document management
+- Fast and efficient resume handling
+- Simple and responsive design
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📁 Project Structure
+
+```text
 Resume-management/
 ├── 1.txt
 ├── 2.txt
@@ -41,11 +45,88 @@ Resume-management/
 ├── README.md
 ├── Resume Project.pptx
 └── app.py
-## Future Scope
-- PDF resume download
-- Multiple resume templates
-- AI-based resume suggestions
-- Cloud storage integration
+```
 
-## Author
-Priya Singh
+---
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/priyayasingh/Resume-management-.git
+```
+
+2. Navigate to the project directory
+
+```bash
+cd Resume-management-
+```
+
+3. Install the required Python packages
+
+```bash
+pip install -r requirements.txt
+```
+
+If no `requirements.txt` file is available, install the required libraries manually.
+
+4. Run the application
+
+```bash
+python app.py
+```
+
+---
+
+## 🚀 Usage
+
+- Start the application.
+- Upload resumes and related documents.
+- Manage candidate information.
+- View and organize stored resumes.
+
+---
+
+## 🎯 Objectives
+
+- Simplify resume management.
+- Reduce manual record keeping.
+- Organize resumes efficiently.
+- Provide quick access to stored resumes.
+- Improve document management.
+
+---
+
+## 📈 Future Scope
+
+- AI-based resume screening
+- Resume ranking based on job description
+- Resume parsing using NLP
+- User authentication and authorization
+- Email notifications
+- PDF resume generation
+- Cloud database integration
+- Dashboard with analytics
+
+---
+
+## 👩‍💻 Author
+
+**Priya Singh**
+
+Computer Science Engineering Student
+
+---
+
+## 📄 License
+
+This project has been developed for educational and academic purposes as part of a college submission.
+
+---
+
+## 🤝 Acknowledgements
+
+- CMR Institute of Technology
+- Project Guide
+- Open Source Community
