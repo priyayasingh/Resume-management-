@@ -109,22 +109,6 @@ python app.py
 - Cloud database integration
 - Dashboard with analytics
 
----
-
-## 👩‍💻 Author
-
-**Priya Singh**
-
-Computer Science Engineering Student
-
----
-
-## 📄 License
-
-This project has been developed for educational and academic purposes as part of a college submission.
-
----
-
 ## 🤝 Acknowledgements
 
 - CMR Institute of Technology
